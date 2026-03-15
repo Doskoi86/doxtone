@@ -1,0 +1,7 @@
+{
+  "skills": [
+    ".claude/skills/unity-script",
+    ".claude/skills/server-sync",
+    ".claude/skills/debug-unity"
+  ]
+}
